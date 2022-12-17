@@ -154,14 +154,3 @@ a:hover {
   height: 5%;
   text-align: left;
 }
-
-@media (max-width: 1024px) {
-  .top-container {
-    position: static;
-  }
-
-  .mountain{
-    width: 90%;
-    height: 90%;
-  }
-}
