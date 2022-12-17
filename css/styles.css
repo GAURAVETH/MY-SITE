@@ -160,16 +160,6 @@ a:hover {
     position: static;
   }
 
-  .top-cloud {
-    position: static;
-    right: 300px;
-    top: 40px;
-  }
-  .bottom-cloud {
-    position: static;
-    left: 250px;
-    bottom: 300px;
-  }
   .mountain{
     width: 90%;
     height: 90%;
