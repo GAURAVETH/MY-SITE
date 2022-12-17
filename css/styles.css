@@ -74,7 +74,7 @@ a:hover {
 
 .skill-row {
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 80px auto 80px auto;
   text-align: left;
 }
 
@@ -172,6 +172,6 @@ a:hover {
   }
   .mountain{
     width: 90%;
-    height: 0%;
+    height: 90%;
   }
 }
