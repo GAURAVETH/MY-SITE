@@ -139,38 +139,6 @@ a:hover {
   text-decoration: none;
 }
 
-@media (max-width: 1024px) {
-  .top-container {
-    position: static;
-    padding: 1em 0;
-  }
-
-  .top-cloud {
-    position: static;
-    right: 300px;
-    top: 40px;
-  }
-  .bottom-cloud {
-    position: static;
-    left: 250px;
-    bottom: 300px;
-  }
-  .mountain{
-    width: 90%;
-    height: 0%;
-  }
-  .intro {
-    width: auto;
-  }
-  .skill-row{
-    width: auto%;
-  }
-  .contact-message {
-    width: auto;
-  }
-}
-
-
 
 .btn:hover {
   background: #30e3cb;
@@ -186,4 +154,28 @@ a:hover {
   width: 5%;
   height: 5%;
   text-align: left;
+}
+
+@media (max-width: 1024px) {
+  .top-container {
+    position: static;
+    padding: 1em 0;
+  }
+
+  .top-cloud {
+    position: static;
+    right: 300px;
+    top: 40px;
+  }
+
+  .bottom-cloud {
+    position: static;
+    left: 250px;
+    bottom: 300px;
+  }
+
+  .mountain {
+    width: 90%;
+    height: 0%;
+  }
 }
