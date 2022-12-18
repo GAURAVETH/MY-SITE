@@ -139,6 +139,28 @@ a:hover {
   text-decoration: none;
 }
 
+@media (max-width: 1024px) {
+  .top-container {
+    position: static;
+  }
+
+  .top-cloud {
+    position: static;
+    right: 300px;
+    top: 40px;
+  }
+  .bottom-cloud {
+    position: static;
+    left: 250px;
+    bottom: 300px;
+  }
+  .mountain{
+    width: 90%;
+    height: 0%;
+  }
+}
+
+
 .btn:hover {
   background: #30e3cb;
   background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
