@@ -156,7 +156,7 @@ a:hover {
   text-align: left;
 }
 
-@media (max-width: 1024px) {
+/* @media (max-width: 1024px) {
   .top-container {
     position: static;
     padding: 1em 0;
@@ -179,3 +179,4 @@ a:hover {
     height: 0%;
   }
 }
+ */
